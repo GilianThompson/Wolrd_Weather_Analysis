@@ -4,6 +4,7 @@
 The objective of this project was to collect and analyze weather data across cities worldwide using API requests to OpenWeather. The data was then used to recommend ideal hotels based on clients' weather preferences using Google Places and Directions APIs. A series of maps were created from the data including heat maps of location versus weather condition, and itinerary maps with hotel data depending on the client's input for ideal minimum and maximum temperature when planning a trip. 
 
 WeatherPy.ipynb contains plots such as the one below that show the relation between City Latitude vs Max Temp. 
+
 ![Fig1](https://user-images.githubusercontent.com/85901073/126914632-611aa9ed-9df3-4b6e-8e3a-49a5baf92817.png)
 
 It also contains plots that show linear regression such as the one below that plots linear regression on the northern hemisphere for maximum temperatre, where R-values can be analyzed. 
